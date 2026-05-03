@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-u75tli.socredito.com.br/sitemap.xml
